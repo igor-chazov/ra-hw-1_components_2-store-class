@@ -1,6 +1,6 @@
 # 1. Домашнее задание к лекции «Компоненты»
 
-[[GithubPages](https://igor-chazov.github.io/ra-hw-1_components_2-store-class)]
+[![Build status](https://ci.appveyor.com/api/projects/status/gk3o6n8pel1asix0?svg=true)](https://ci.appveyor.com/project/igor-chazov/ra-hw-1-components-2-store-class) [[GithubPages](https://igor-chazov.github.io/ra-hw-1_components_2-store-class)]
 
 ## 1.2 Страница интернет-магазина (class-based компонент)
 
