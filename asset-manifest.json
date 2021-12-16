@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-hw-1_components_2-store-class/static/css/main.57ebf81c.css",
+    "main.js": "/ra-hw-1_components_2-store-class/static/js/main.c5b98e92.js",
+    "static/media/item-blue.jpg": "/ra-hw-1_components_2-store-class/static/media/item-blue.2103f69bf3b1c8b44f34.jpg",
+    "static/media/item-black.jpg": "/ra-hw-1_components_2-store-class/static/media/item-black.dd74251d47c485703b4d.jpg",
+    "index.html": "/ra-hw-1_components_2-store-class/index.html",
+    "main.57ebf81c.css.map": "/ra-hw-1_components_2-store-class/static/css/main.57ebf81c.css.map",
+    "main.c5b98e92.js.map": "/ra-hw-1_components_2-store-class/static/js/main.c5b98e92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57ebf81c.css",
+    "static/js/main.c5b98e92.js"
+  ]
+}
